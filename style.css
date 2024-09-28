@@ -1,0 +1,43 @@
+* {
+  font-family: "Space Grotesk", sans-serif;
+}
+.bg-navbar {
+  background-color: #423e37;
+}
+.navbar a {
+  color: #e3b23c;
+}
+.navbar button {
+  background-color: #e3b23c;
+}
+.btn-outline-success {
+  color: #423e37;
+}
+.btn-outline-success:hover {
+  color: #e3b23c;
+  background-color: #423e37;
+}
+.active {
+  color: #e3b23c !important;
+  font-weight: bold;
+  border-bottom: 2px solid #e3b23c;
+}
+.nav-link:hover {
+  color: #e3b23c !important;
+  border-bottom: 2px solid #e3b23c;
+}
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.bg-footer{
+  background-color: #edebd7;
+}
+
+.h5 {
+  color: black;
+}
+
+.aaaa {
+  color: black;
+}
